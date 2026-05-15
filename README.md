@@ -17,3 +17,4 @@ The objective of this project was to analyze HR data to identify key factors con
 ## How to View
 1. Download the `Company Data.xlsx` and the `.pbix` file (if available).
 2. Watch the `Video Project 1.mp4` for a quick walkthrough of the dashboard's interactivity.
+![Dashboard](Screenshot 2026-05-14 183036.png)
